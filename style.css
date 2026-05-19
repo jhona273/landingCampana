@@ -54,16 +54,16 @@ button:hover {
   background-color: #2563eb;
 }
 
-nav ul {
-  list-style: none;
-  display: flex;
-  justify-content: center;
-  gap: 20px;
-  padding: 0;
+footer {
+  background-color: #1e3a8a;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  margin-top: 30px;
 }
 
-nav a {
-  text-decoration: none;
+footer a {
   color: white;
-  font-weight: bold;
+  text-decoration: none;
+  margin: 0 5px;
 }
